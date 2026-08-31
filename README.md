@@ -1,3 +1,3 @@
 # Web Appilcaton Template Thai Style
 
-by kengi's TTMED
+by keng the conqurer
